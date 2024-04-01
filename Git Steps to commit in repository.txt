@@ -1,0 +1,6 @@
+git init
+git add .
+git status
+git commit -m "comment for commit"
+git remote add origin https://github.com/developer-vivek/test-repository.git
+git push -u origin master
